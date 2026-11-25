@@ -8,37 +8,33 @@
 
 ## About
 
-Software builder based in New York City. I work across full-stack web development, AI-assisted tooling, and experimental systems — from IRB review platforms to AGI civilization frameworks.
+Software builder based in New York City. I build local-first, AI-assisted tools — from live transcription to modular dashboards to desktop LLM clients.
 
 - 📍 New York City
 - 🌐 [anthonymiles01.github.io](https://anthonymiles01.github.io)
-- 💼 Open to collaborations and interesting problems
+- 🧪 Founder & Lead Developer at [SynesisLab](https://github.com/SynesisLab)
 
 ---
 
-## Featured Projects
+## SynesisLab Projects
 
-### ⚖️ EthicsGate
-Modern IRB (Institutional Review Board) review platform — inline annotations, real-time collaboration, and AI-assisted decision-making.
-[![TypeScript](https://img.shields.io/badge/TypeScript-blue)](https://github.com/AnthonyChen05/EthicsGate) [![Next.js](https://img.shields.io/badge/Next.js-black)](https://github.com/AnthonyChen05/EthicsGate) [![Supabase](https://img.shields.io/badge/Supabase-green)](https://github.com/AnthonyChen05/EthicsGate)
+### 🎙️ transcribe-livenotes
+Local-first live transcription + AI-assisted markdown notes — whisper.cpp + Ollama, fully offline.
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow)](https://github.com/SynesisLab/transcribe-livenotes) [![MIT](https://img.shields.io/badge/license-MIT)](https://github.com/SynesisLab/transcribe-livenotes)
 
-### 🌍 Atlas-World
-Experimental AGI civilization framework — constitution, safety volume, multi-agent governance, and simulation ethics.
-[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/AnthonyChen05/Atlas-World)
+### 🔺 Prism
+Modular personal dashboard — drop a folder in, get a page. Own the stack.
+[![TypeScript](https://img.shields.io/badge/TypeScript-blue)](https://github.com/SynesisLab/prism)
 
-### ✈️ AutoATC-test
-Attempt to use GPT-3 to assist with ATCs in Microsoft Flight Simulator.
-[![Python](https://img.shields.io/badge/Python-yellow)](https://github.com/AnthonyChen05/AutoATC-test)
-
-### 📱 Conduit
-Mobile (iOS/Android) client for OpenWebUI — chat with your self-hosted AI.
-[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/AnthonyChen05/conduit)
+### ⚡ Ternion
+Local-first Windows LLM chat desktop with an intelligent model routing system. Tauri 2 + Rust + React.
+[![Rust](https://img.shields.io/badge/Rust-orange)](https://github.com/SynesisLab/Ternion) [![MIT](https://img.shields.io/badge/license-MIT)](https://github.com/SynesisLab/Ternion)
 
 ---
 
 ## Tech Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) ![Python](https://img.shields.io/badge/Python-blue) ![Java](https://img.shields.io/badge/Java-orange) ![Next.js](https://img.shields.io/badge/Next.js-black) ![React](https://img.shields.io/badge/React-blue) ![Supabase](https://img.shields.io/badge/Supabase-green) ![Cloudflare](https://img.shields.io/badge/Cloudflare-orange) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) ![Rust](https://img.shields.io/badge/Rust-orange) ![React](https://img.shields.io/badge/React-blue) ![Tauri](https://img.shields.io/badge/Tauri-black) ![Vite](https://img.shields.io/badge/Vite-purple) ![Ollama](https://img.shields.io/badge/Ollama-black) ![whisper.cpp](https://img.shields.io/badge/whisper.cpp-green)
 
 ---
 
@@ -46,3 +42,4 @@ Mobile (iOS/Android) client for OpenWebUI — chat with your self-hosted AI.
 
 - 🌐 [anthonymiles01.github.io](https://anthonymiles01.github.io)
 - 🐙 [@AnthonyChen05](https://github.com/AnthonyChen05)
+- 🧪 [SynesisLab](https://github.com/SynesisLab)
